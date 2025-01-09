@@ -14,9 +14,3 @@
 .cxx
 local.properties
 
-#Backend files
-server-flask/venv
-server-flask/.env
-server-flask/data
-server-flask/chroma
-server-flask/__pycache__
